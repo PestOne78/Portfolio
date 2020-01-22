@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "369397196197",
+    "firebase_url": "https://androidconference-1708f.firebaseio.com",
+    "project_id": "androidconference-1708f",
+    "storage_bucket": "androidconference-1708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369397196197:android:c354fe12dca1a47e",
+        "android_client_info": {
+          "package_name": "com.example.pestone.conference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369397196197-ihne2vk8ak6ij3vf5jv5bif71n2n0an5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pestone.conference",
+            "certificate_hash": "3be2f94efe62f5fa066167f87bfd0e590edc194d"
+          }
+        },
+        {
+          "client_id": "369397196197-gecm7521aan7t9e5fvgk2ctol5l3snlk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "369397196197-gecm7521aan7t9e5fvgk2ctol5l3snlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVDFxHFrPPtPLsoA1w4aSuHyPr16UhDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369397196197-gecm7521aan7t9e5fvgk2ctol5l3snlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

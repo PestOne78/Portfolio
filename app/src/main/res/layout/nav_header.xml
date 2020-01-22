@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="192dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/nav_header_gradient"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/account_image"
+            android:src="@drawable/ic_account__black_big"
+            android:layout_weight="1"/>
+
+    <TextView
+        android:layout_weight="3"
+        android:id="@+id/txtUserNameDrawer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Кирилл Коперник"
+        android:textAlignment="textEnd"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="30sp" />
+
+    </LinearLayout>
+</LinearLayout>

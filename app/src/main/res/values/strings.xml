@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Conference</string>
+    <string name="create_id">Создать</string>
+    <string name="search_id">Поиск</string>
+    <string name="find_id">Найти</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="open_drawer">Открыть drawer</string>
+    <string name="close_drawer">Закрыть drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_general">GeneralActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Строки UsersProfile -->
+    <string name="isOnline">Онлайн</string>
+    <string name="ImageUserList">Фото</string>
+
+    <!-- TODO: Строки Chat-->
+    <string name="writeMessage">Текст сообщения...</string>
+    <string name="open_video_chat">Видеочат</string>
+
+
+    <!-- TODO: Строки авторизации-->
+    <string name="Password">Пароль</string>
+    <string name="Login">Войти</string>
+    <string name="Email">E-Mail</string>
+
+    <!-- TODO: Строки Drawer -->
+    <string name="Rooms">Комнаты</string>
+    <string name="Friends">Контакты</string>
+    <string name="Settings">Настройки</string>
+    <string name="About">О приложении&#8230;</string>
+    <string name="app_exit">Выход</string>
+    <string name="account_image">Фото пользователя</string>
+    <string name="logout">Выйти из аккаунта</string>
+
+    <!-- TODO: Строки Rooms -->
+    <string name="roomName">Название комнаты</string>
+    <string name="roomDescription">Описание</string>
+    <string name="createDate">Время</string>
+    <string name="createRoom">Создать комнату</string>
+    <string name="cancelRoom">Отменить</string>
+    <string name="peertopeer">2</string>
+    <string name="onetofour">1->4</string>
+    <string name="four">4->4</string>
+    <string name="createRoomName">Создание комнаты</string>
+    <string name="SelectUser">Пользователь:</string>
+    <string name="SelectUsers">Выберите пользователя...</string>
+
+    <!-- TODO: Строки User -->
+    <string name="userName">Пользователь</string>
+    <string name="userEmail">Электронная почта</string>
+
+    <!-- TODO: Строки авторизации -->
+    <string name="nickname">Имя</string>
+    <string name="action_sign_in_short">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Пароль слишком короткий, введите минимум 6 символов!</string>
+    <string name="auth_failed">Ошибка аутентификации, проверьте свою электронную почту и пароль или зарегистрируйтесь</string>
+    <string name="change_email">Изменить Email</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="remove_user">Удалить пользователя</string>
+    <string name="new_pass">Новый пароль</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Войти</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_name">Полное имя</string>
+    <string name="btn_login">ВХОД</string>
+    <string name="btn_link_to_register">Еще не зарегестрированны? Зарегестрируйтесь сейчас!</string>
+    <string name="btn_link_to_login">Уже зарегестрирован. Войти в систему!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Забыли пароль?</string>
+    <string name="btn_reset_password">Изменить пароль</string>
+    <string name="btn_back"><![CDATA[<< Назад]]></string>
+    <string name="hint_new_email">Новый Email</string>
+    <string name="btn_change">Изменить</string>
+    <string name="btn_send">Отправить</string>
+    <string name="btn_remove">Удалить</string>
+    <string name="btn_sign_out">Выйти</string>
+    <string name="lbl_forgot_password">Забыли пароль?</string>
+    <string name="forgot_password_msg">Нам нужен ваш Email, чтобы отправить вам инструкции по сбросу пароля.</string>
+    <string name="title_activity_loginig">Conference</string>
+</resources>

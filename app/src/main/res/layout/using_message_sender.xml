@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="end"
+    android:orientation="vertical"
+    android:paddingTop="8dp">
+
+    <TextView
+    android:id="@+id/txtMessageName"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginEnd="15dp"
+    android:gravity="end"
+    android:textColor="@android:color/darker_gray"
+    android:textSize="14sp"
+    tools:text="John Doe" />
+
+    <TextView
+        android:id="@+id/txtMessageTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtMessageBody"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_toStartOf="@+id/txtMessageBody"
+        android:paddingTop="12dp"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="12sp"
+        tools:text="11:40" />
+
+    <TextView
+        android:id="@+id/txtMessageBody"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/message_body_sender"
+        android:maxWidth="240dp"
+        android:padding="8dp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:layout_below="@+id/txtMessageName"
+        tools:text="hi man, how are you?" />
+</RelativeLayout>

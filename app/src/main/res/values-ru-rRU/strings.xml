@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit">Выход</string>
+    <string name="action_settings">Настройки</string>
+    <string name="set_wallpaper">Установить</string>
+    <string name="download">Загрузить</string>
+    <string name="about">О приложении…</string>
+    <string name="about_fragment">О приложении</string>
+    <string name="slide_fragment">Изображения</string>
+    <string name="save_file_failed">Ошибка сохранения!</string>
+    <string name="save_file">Файл сохранен:</string>
+    <string name="access_sd">Карта памяти недоступна</string>
+    <string name="set_wallpaper_failed">Ошибка!</string>
+    <string name="set_wallpaper_complete">Успешно!</string>
+    <string name="get_permissions">Предоставьте разрешения для записи данных</string>
+    <string name="name_dev">Пугачевский Артем</string>
+</resources>

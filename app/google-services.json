@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443912683967",
+    "firebase_url": "https://wallpapercarousel-58f5e.firebaseio.com",
+    "project_id": "wallpapercarousel-58f5e",
+    "storage_bucket": "wallpapercarousel-58f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443912683967:android:7c775d9b2f092080",
+        "android_client_info": {
+          "package_name": "pestone.wallpaperfootbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443912683967-lcd72se624ss913rsdedpr5mhr2fj40d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pestone.WallpaperFootball",
+            "certificate_hash": "3be2f94efe62f5fa066167f87bfd0e590edc194d"
+          }
+        },
+        {
+          "client_id": "443912683967-04mg2j8b036aij2m1mend40h89h667vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaXaMcNz_Ve_HRhIfyLI-OO4pCMcsk_9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443912683967-04mg2j8b036aij2m1mend40h89h667vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

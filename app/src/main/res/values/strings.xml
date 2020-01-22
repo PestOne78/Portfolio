@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">WallpaperFootbal</string>
+    <string name="exit">Exit</string>
+    <string name="image_name" translatable="false">Name Wallpaper</string>
+    <string name="title_activity_slide" translatable="false">Images</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="download">Download</string>
+    <string name="full_screen_image" translatable="false">Full Screen Image</string>
+    <string name="about">About…</string>
+    <string name="image_description" translatable="false">Wallpaper</string>
+
+    <string name="about_fragment">About</string>
+    <string name="slide_fragment">Images</string>
+    <string name="full_screen_fragment" translatable="false">Full Screen Fragment</string>
+
+    <string name="get_permissions">Granted permissions for write data</string>
+
+    <string name="set_wallpaper_complete">Success!</string>
+    <string name="set_wallpaper_failed">Failed!</string>
+
+    <string name="access_sd">SD Card unavailable</string>
+
+    <string name="save_file">File saved:</string>
+    <string name="save_file_failed">Save failed!</string>
+
+    <string name="name_dev">Pugachevsky Artem</string>
+    <string name="email_dev" translatable="false">pestone78@gmail.com</string>
+    <string name="date_dev" translatable="false">Copyright 2018©</string>
+</resources>

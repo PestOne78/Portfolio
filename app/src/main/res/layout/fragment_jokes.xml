@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.JokesFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_of_jokes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical" />
+
+    <RelativeLayout
+        android:background="@drawable/relative_coroner"
+        android:id="@+id/input_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="55dp"
+        android:padding="5dp"
+        tools:ignore="Autofill,LabelFor,ContentDescription">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/count_joke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:digits="0123456789"
+            android:ems="7"
+            android:hint="@string/hint_count"
+            android:inputType="numberSigned"
+            android:maxEms="4"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_getjoke"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:layout_toEndOf="@+id/count_joke"
+            android:background="@drawable/circle_button"
+            android:text="@string/btn_getjoke" />
+
+    </RelativeLayout>
+
+
+</FrameLayout>

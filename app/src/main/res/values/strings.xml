@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="title_joke">Jokes</string>>
+    <string name="title_web">Web</string>
+    <string name="exit_app">Do you want to close the application?</string>
+    <string name="title_exit">Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="btn_getjoke">Get Jokes!</string>
+    <string name="hint_count">Enter the number</string>
+    <string name="error_of_count">Enter the number of jokes!</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_message">Sorry, the application cannot work without the Internet.</string>
+    <string name="grant">Grant permissions</string>
+</resources>

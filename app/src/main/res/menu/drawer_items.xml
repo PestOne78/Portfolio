@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/social"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_machines"
+            android:icon="@drawable/ic_room"
+            android:title="@string/mashines" />
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/ic_friend"
+            android:title="@string/users" />
+    </group>
+    <group
+        android:id="@+id/settings"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+    </group>
+    <group
+        android:id="@+id/sign_out"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/logout" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_close"
+            android:title="@string/app_exit" />
+    </group>
+</menu>
+

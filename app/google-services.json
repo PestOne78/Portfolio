@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "863368219285",
+    "firebase_url": "https://lenmiriotmessage-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lenmiriotmessage",
+    "storage_bucket": "lenmiriotmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863368219285:android:24768156f34914b980299c",
+        "android_client_info": {
+          "package_name": "com.example.lenmiriotmessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4Xzd4ZPDoFHkPru5ZcH_WA5rQPCPP_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
